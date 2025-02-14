@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋, my name is Corey Brady
+
+- 🔭 I’m currently working on full-stack application
+- 📫 How to reach me: bradycorey98@gmail.com
 
 <!--
 **CBrady9877/CBrady9877** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
