@@ -1,5 +1,7 @@
 ## Hi there 👋, my name is Corey Brady
 
+I'm currently a student at Old Dominion University seeking a bachelor’s degree in computer science. 
+
 - 🔭 I’m currently working on a full-stack application
 - 📫 How to reach me: bradycorey98@gmail.com
 
